@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>wo 是前台首页
